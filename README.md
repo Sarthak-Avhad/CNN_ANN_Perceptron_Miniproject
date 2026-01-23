@@ -21,5 +21,42 @@ The project is designed to help understand how learning complexity increases fro
 
 ---
 
+## 🔧 Models Implemented
+
+- Perceptron (Single Neuron Model)  
+- Artificial Neural Network (ANN)  
+- Convolutional Neural Network (CNN)  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- NumPy  
+- pandas  
+- TensorFlow / Keras  
+- scikit-learn  
+- matplotlib  
+
+---
+
+## 🔹 Workflow
+
+1. Load and explore the dataset  
+2. Perform data preprocessing and normalization  
+3. Implement Perceptron model  
+4. Build and train ANN model  
+5. Design and train CNN architecture  
+6. Evaluate model performance  
+7. Analyze and compare results  
+
+---
+
+## 📊 Dataset Information
+
+The dataset used in this project is suitable for training and evaluating neural network models.
+
+### 🔗 Dataset Link: 
 
 
