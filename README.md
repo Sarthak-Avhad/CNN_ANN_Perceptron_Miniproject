@@ -57,6 +57,26 @@ The project is designed to help understand how learning complexity increases fro
 
 The dataset used in this project is suitable for training and evaluating neural network models.
 
-### 🔗 Dataset Link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+### 🔗 Dataset Link:-  https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+
+
+## 📈 Applications
+
+- Learning neural network fundamentals  
+- Image classification using CNN  
+- Academic Deep Learning projects  
+- Understanding model complexity progression  
+
+---
+
+## 🔮 Future Enhancements
+
+- Add performance comparison metrics  
+- Experiment with deeper CNN architectures  
+- Apply models on real-world datasets  
+- Hyperparameter tuning and optimization  
+
+---
+
 
 
