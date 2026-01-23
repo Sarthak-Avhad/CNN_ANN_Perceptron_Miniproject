@@ -59,6 +59,8 @@ The dataset used in this project is suitable for training and evaluating neural 
 
 ### 🔗 Dataset Link:-  https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
+
+
 ---
 
 ## 📈 Applications
