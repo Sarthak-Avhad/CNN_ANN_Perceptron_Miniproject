@@ -57,6 +57,6 @@ The project is designed to help understand how learning complexity increases fro
 
 The dataset used in this project is suitable for training and evaluating neural network models.
 
-### 🔗 Dataset Link: 
+### 🔗 Dataset Link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 
